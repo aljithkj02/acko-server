@@ -1,0 +1,24 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "model": "Hero Splendor Plus",
+      "number": "KL65M8846"
+    },
+    {
+      "id": 2,
+      "model": "Bajaj Pulsar 150",
+      "number": "ECM9076"
+    },
+    {
+      "id": 3,
+      "model": "Honda SP 125",
+      "number": "HR26CF123"
+    },
+    {
+      "id": 4,
+      "model": "TVS Radeon",
+      "number": "JUX580"
+    }
+  ]
+}
